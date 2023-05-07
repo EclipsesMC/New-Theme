@@ -1,0 +1,52 @@
+/**
+ * @name New Theme
+ * @version 0.0.1
+ * @description Nuevos colores para las letras de Discord
+ * @source https://github.com/EclipsesMC/New-Theme
+ * @author EclipsesMC#9975
+ * @authorId 849089134210449458
+*/
+
+/* Fondo oscuro */
+body {
+  background-color: #2f3136 !important;
+}
+
+/* Texto blanco */
+body,
+span,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+textarea,
+a {
+  color: #ffffff !important;
+}
+
+/* Cambiar colores específicos */
+/* Por ejemplo, cambia el color del fondo de los mensajes */
+.message-2qnXI6 {
+  background-color: #36393f !important;
+}
+
+/* Ajustar el tamaño del texto */
+.message-2qnXI6 .contents-2mQqc9 .markup-2BOw-j {
+  font-size: 14px !important;
+}
+
+/* Personalizar los enlaces */
+a {
+  color: #7289da !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: underline !important;
+}
